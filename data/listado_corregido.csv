@@ -1,0 +1,101 @@
+﻿id,cell,audio_file,serie,variantes_aceptadas,object_id,ole_storage
+1,A12,audios/001_la_abeja_maya.wav,La Abeja Maya,,510,MBD0000A33A
+2,B12,audios/002_cancion_triste_de_hill_street.wav,Canción Triste de Hill Street,,566,MBD0001197C
+3,C12,audios/003_comando_g.wav,Comando G,,509,MBD000092AA
+4,D12,audios/004_la_ley_de_los_angeles.wav,La ley de los Ángeles,,567,MBD000130F2
+5,E12,audios/005_erase_una_vez_la_vida.wav,Erase una vez la vida,La vida es así,511,MBD0000A5AF
+6,A16,audios/006_doctor_en_alaska.wav,Doctor en alaska,,627,MBD0004C39F
+7,B16,audios/007_los_simpson.wav,Los Simpson,,562,MBD00010746
+8,C16,audios/008_cheers.wav,Cheers,,568,MBD00013143
+9,D16,audios/009_correcaminos.wav,correcaminos,El Correcaminos,513,MBD0000ADA7
+10,E16,audios/010_fama.wav,Fama,,587,MBD00013713
+11,A20,audios/011_pippi_calzaslargas.wav,Pippi Calzaslargas,Pipi Calzaslargas,629,MBD00050693
+12,B20,audios/012_aquellos_maravillosos_anos.wav,Aquellos Maravillosos años,,571,MBD00013212
+13,C20,audios/013_david_el_gnomo.wav,David el Gnomo,,514,MBD0000AFA9
+14,D20,audios/014_embrujada.wav,Embrujada,,572,MBD0001324A
+15,E20,audios/015_jackie_y_nuka.wav,Jackie y Nuka,,632,MBD00056459
+16,A24,audios/016_apartamento_para_tres.wav,Apartamento para tres,,573,MBD000132F8
+17,B24,audios/017_alvin_y_las_ardillas.wav,Alvin y las ardillas,,516,MBD0000B4E9
+18,C24,audios/018_corrupcion_en_miami.wav,Corrupción en Miami,,574,MBD0001332F
+19,D24,audios/019_expediente_x.wav,Expediente X,,575,MBD00013359
+20,E24,audios/020_dragones_y_mazmorras.wav,Dragones y Mazmorras,,517,MBD0000B615
+21,A28,audios/021_don_quijote_de_la_mancha.wav,Don quijote de la mancha,,518,MBD0000B856
+22,B28,audios/022_el_gran_heroe_americano.wav,El Gran Héroe americano,,577,MBD000133C0
+23,C28,audios/023_dinastia.wav,Dinastía,,576,MBD00013397
+24,D28,audios/024_candy_candy.wav,Candy Candy,,519,MBD0000B9A0
+25,E28,audios/025_curro_jimenez.wav,Curro Jiménez,,623,MBD000173C4
+26,A32,audios/026_el_show_de_benny_hill.wav,El show de benny Hill,Benny Hill,579,MBD0001345B
+27,B32,audios/027_noeli.wav,Noeli,,520,MBD0000BC4C
+28,C32,audios/028_el_coche_fantastico.wav,El Coche Fantástico,,578,MBD00013431
+29,D32,audios/029_heidi.wav,Heidi,,521,MBD0000BD2C
+30,E32,audios/030_juzgado_de_guardia.wav,Juzgado de Guardia,,624,MBD0001755B
+31,A36,audios/031_el_inspector_gadget.wav,El Inspector Gadget,,522,MBD0000BE1C
+32,B36,audios/032_alf.wav,Alf,,615,MBD000149CE
+33,C36,audios/033_el_pajaro_loco.wav,El Pájaro Loco,,523,MBD0000BEF8
+34,D36,audios/034_padres_forzosos.wav,Padres forzosos,,613,MBD00014947
+35,E36,audios/035_el_show_de_la_pantera_rosa.wav,El show de la pantera rosa,La Pantera Rosa,524,MBD0000C016
+36,A40,audios/036_el_equipo_a.wav,El Equipo A,,584,MBD00013636
+37,B40,audios/037_la_llamada_de_los_gnomos.wav,La llamada de los Gnomos,,565,MBD00010EEE
+38,C40,audios/038_bonanza.wav,Bonanza,,583,MBD000135FF
+39,D40,audios/039_verano_azul.wav,Verano Azul,,610,MBD00014871
+40,E40,audios/040_pumuky.wav,Pumuky,Pumuki,526,MBD0000C56B
+41,A44,audios/041_remington_steele.wav,Remington Steele,,585,MBD00013663
+42,B44,audios/042_chicho_terremoto.wav,Chicho Terremoto,,527,MBD0000CA1F
+43,C44,audios/043_sensacion_de_vivir.wav,Sensación de vivir,,586,MBD00013691
+44,D44,audios/044_los_pitufos.wav,Los Pitufos,,564,MBD00010DCE
+45,E44,audios/045_la_tribu_de_los_brady.wav,La tribu de los Brady,,625,MBD000178D4
+46,A48,audios/046_banner_y_flappi.wav,Banner y Flappi,Baner y Flapi,639,MBD0001BBAA
+47,B48,audios/047_la_casa_de_la_pradera.wav,La casa de la pradera,,588,MBD000142A0
+48,C48,audios/048_isidoro.wav,Isidoro,,530,MBD0000CCF8
+49,D48,audios/049_alfred_hitchcock_presenta.wav,Alfred Hitchcock presenta,,589,MBD000142F3
+50,E48,audios/050_los_diminutos.wav,Los diminutos,,531,MBD0000CE40
+51,A52,audios/051_las_chicas_de_oro.wav,Las chicas de oro,,591,MBD00014364
+52,B52,audios/052_los_caballeros_del_zodiaco.wav,Los Caballeros del Zodiaco,,532,MBD0000D15B
+53,C52,audios/053_falcon_crest.wav,Falcon Crest,,612,MBD00014916
+54,D52,audios/054_sherlock_holmes.wav,Sherlock Holmes,,533,MBD0000D219
+55,E52,audios/055_primos_lejanos.wav,Primos lejanos,,626,MBD00017B94
+56,A56,audios/056_cosas_de_casa.wav,Cosas de casa,,594,MBD00014413
+57,B56,audios/057_autopista_hacia_el_cielo.wav,Autopista hacia el cielo,,593,MBD000143E7
+58,C56,audios/058_campeones.wav,Campeones,,534,MBD0000D38C
+59,D56,audios/059_kung_fu.wav,Kung Fu,,592,MBD000143B8
+60,E56,audios/060_dartacan_y_los_tres_mosqueperros.wav,Dartacan y los tres mosqueperros,,538,MBD0000E192
+61,A60,audios/061_la_aldea_del_arce.wav,La aldea del arce,,561,MBD00010615
+62,B60,audios/062_salvados_por_la_campana.wav,Salvados por la campana,,595,MBD00014449
+63,C60,audios/063_blossom.wav,Blossom,,614,MBD00014985
+64,D60,audios/064_los_trotamusicos.wav,Los Trotamúsicos,Los cuatro musicos de Bremen,540,MBD0000E6A4
+65,E60,audios/065_macgiver.wav,Macgiver,,622,MBD00015B48
+66,A64,audios/066_norte_y_sur.wav,Norte y sur,,597,MBD0001450A
+67,B64,audios/067_ulises_31.wav,ulises 31,,541,MBD0000E7BD
+68,C64,audios/068_los_hombres_de_harrelson.wav,Los hombres de Harrelson,,598,MBD0001454F
+69,D64,audios/069_los_picapiedras.wav,Los picapiedras,,542,MBD0000E88E
+70,E64,audios/070_twin_peaks.wav,Twin Peaks,,621,MBD000157E7
+71,A68,audios/071_super_mario_bros.wav,Super Mario Bros,Super Mario Bros super Show,560,MBD00010537
+72,B68,audios/072_v.wav,V,,599,MBD00014577
+73,C68,audios/073_lucky_luck.wav,Lucky Luck,,631,MBD00087CF1
+74,D68,audios/074_se_ha_escrito_un_crimen.wav,Se ha escrito un Crimen,,600,MBD000145A1
+75,E68,audios/075_fraggel_rock.wav,Fraggel Rock,Los Fraggel,559,MBD000103F8
+76,A72,audios/076_punky_brewster.wav,Punky Brewster,,602,MBD00014609
+77,B72,audios/077_erase_una_vez_el_hombre.wav,Erase una vez el hombre,,546,MBD0000F03C
+78,C72,audios/078_power_ranger.wav,Power Ranger,,638,MBD000199B2
+79,D72,audios/079_mazinger_z.wav,Mazinger Z,,547,MBD0000F112
+80,E72,audios/080_luz_de_luna.wav,Luz de luna,,620,MBD00015549
+81,A76,audios/081_los_problemas_crecen.wav,Los problemas crecen,,603,MBD000146C5
+82,B76,audios/082_popeye.wav,Popeye,,548,MBD0000F271
+83,C76,audios/083_starsky_y_hutch.wav,Starsky y Hutch,,605,MBD00014722
+84,D76,audios/084_el_osito_misha.wav,El Osito Misha,,549,MBD0000F351
+85,E76,audios/085_matrimonio_con_hijos.wav,matrimonio con Hijos,,611,MBD000148A4
+86,A80,audios/086_daniel_el_travieso.wav,Daniel el travieso,,550,MBD0000F4A1
+87,B80,audios/087_los_angeles_de_charlie.wav,Los ángeles de Charlie,,604,MBD000146F6
+88,C80,audios/088_vicky_el_vikingo.wav,Vicky el vikingo,,551,MBD0000F5DD
+89,D80,audios/089_mision_imposible.wav,Misión imposible,,637,MBD0000EBE2
+90,E80,audios/090_entrenador.wav,Entrenador,,616,MBD00014AEE
+91,A84,audios/091_starman.wav,Starman,,606,MBD0001475B
+92,B84,audios/092_marco.wav,Marco,,554,MBD0000FBC0
+93,C84,audios/093_los_vigilantes_de_la_playa.wav,Los vigilantes de la playa,,607,MBD00014786
+94,D84,audios/094_los_pequenecos.wav,Los Pequeñecos,,553,MBD0000FA96
+95,E84,audios/095_vacaciones_en_el_mar.wav,Vacaciones en el mar,,636,MBD0000DDA6
+96,A88,audios/096_la_vuelta_al_mundo_de_willy_fog.wav,La vuelta al mundo de Willy Fog,,555,MBD0000FCCC
+97,B88,audios/097_los_monster.wav,Los Monster,Los Munster,608,MBD00014809
+98,C88,audios/098_los_aurones.wav,Los aurones,,556,MBD0000FDE2
+99,D88,audios/099_lou_grant.wav,Lou Grant,,609,MBD0001483D
+100,E88,audios/100_futbol_en_accion.wav,Fútbol en acción,,563,MBD00010B09

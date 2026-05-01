@@ -1,0 +1,12 @@
+{
+  "app": "dias-de-tele",
+  "version": "retro-1.0",
+  "exportedAt": "ejemplo",
+  "state": {
+    "solved": [],
+    "revealed": [],
+    "tries": 0,
+    "hits": 0,
+    "lastSelectedId": null
+  }
+}
