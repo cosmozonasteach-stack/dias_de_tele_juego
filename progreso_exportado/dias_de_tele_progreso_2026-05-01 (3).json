@@ -1,0 +1,17 @@
+{
+  "app": "dias-de-tele",
+  "version": "retro-1.2-audio-fix",
+  "exportedAt": "2026-05-01T15:30:53.540Z",
+  "state": {
+    "solved": [
+      1,
+      15
+    ],
+    "revealed": [
+      15
+    ],
+    "tries": 2,
+    "hits": 1,
+    "lastSelectedId": 15
+  }
+}
